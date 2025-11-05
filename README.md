@@ -5,11 +5,11 @@ Este é um projeto de uma aplicação para gerenciar uma clínica veterinária, 
 
 ## Funcionalidades
 - Agenda
-- Armazenamento em banco de dados
 - Registro de serviços
 - Gerenciamento de Consultas
 - Gerenciamento de Pacientes
 - Gerenciamento de Profissionais
+  (Últimas atualizações: Agenda,Registro de serviços, Gerenciamento de Consultas) 
 
 ## Tecnologias Utilizadas
 -java
