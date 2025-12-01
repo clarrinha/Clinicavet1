@@ -10,6 +10,20 @@ Este é um projeto de uma aplicação para gerenciar uma clínica veterinária, 
 - Gerenciamento de Profissionais
 
 ## Modelo do Banco de Dados
+O banco de dados da clínica veterinária foi estruturado para organizar clientes, animais, veterinários, atendimentos e tratamentos.
+
+- **Cliente** – Armazena dados do tutor.
+- **Animal** – Representa o paciente, sempre vinculado a um cliente.
+- **Veterinário** – Profissional responsável pelos atendimentos.
+- **Atendimento** – Registra consultas, incluindo data, tipo e observações.
+- **Tratamento** – Procedimentos realizados no atendimento (vacinas, exames, cirurgias).
+
+###  Relacionamentos (1:N)
+- **Cliente → Animais**
+- **Animal → Atendimentos**
+- **Veterinário → Atendimentos**
+- **Atendimento → Tratamentos**
+  
  
 
 ## Tecnologias Utilizadas
