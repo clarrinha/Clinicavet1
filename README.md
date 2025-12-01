@@ -30,6 +30,7 @@ O banco de dados da clínica veterinária foi estruturado para organizar cliente
 
 ## Tecnologias Utilizadas
 -java
+
 -Banco de dados: Apenas demonstrativo com png 
 
 
