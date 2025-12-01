@@ -43,7 +43,9 @@ O banco de dados da clínica veterinária foi estruturado para organizar cliente
 
 
 ## Diagrama de classes:
-![Diagrama de classes](out/diagrama_classes.png)
+<img width="525" height="773" alt="diagrama_classes" src="https://github.com/user-attachments/assets/f2ebe6c8-929e-4261-a7b8-6b3398476301" />
+
+
 
 ## Diagrama de casos de uso:
 ![Diagrama de casos de uso](out/diagrama_vt.png)
