@@ -15,7 +15,6 @@ rectangle "Clínica Veterinária" {
   usecase UC2 as "realizar serviço
   agendado(consulta,
   exame, cirurgia etc)"
-  usecase UC3 as "ver estoque"
   usecase UC4 as "ver agenda"
   usecase UC5 as "criar receitas de
   medicamentos"
@@ -30,7 +29,7 @@ Veterinario -- UC2
 Veterinario -- UC4
 Veterinario -- UC5
 
-Administrador -- UC3
+
 Administrador -- UC4
 Administrador -- UC6
 
