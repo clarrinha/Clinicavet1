@@ -30,7 +30,8 @@ O banco de dados da clínica veterinária foi estruturado para organizar cliente
 - **Veterinário → Atendimentos**
 - **Atendimento → Tratamentos**
 
- <img width="1920" height="1080" alt="Design sem nome" src="https://github.com/user-attachments/assets/ff27215a-f5a0-4e77-bf88-93a68ae4dcf7" />
+<img width="447" height="433" alt="image" src="https://github.com/user-attachments/assets/fd376620-1e8c-41c5-92d8-34adc7e28bed" />
+
 
 
 ## Tecnologias Utilizadas
