@@ -49,7 +49,8 @@ O banco de dados da clínica veterinária foi estruturado para organizar cliente
 
 
 ## Diagrama de casos de uso:
-<img width="375" height="650" alt="diagrama_vt" src="https://github.com/user-attachments/assets/0473b324-e629-4847-9d0d-795012bb482e" />
+<img width="385" height="478" alt="image" src="https://github.com/user-attachments/assets/804fb0d6-7c0d-4607-9781-c47fbf7b9b7a" />
+
 
 
 ## Autora
